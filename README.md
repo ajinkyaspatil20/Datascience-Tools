@@ -3,7 +3,7 @@ Linear Regression – Used to model the relationship between a dependent variabl
 
 Decision Tree – A tree-like model used for classification and regression by splitting data based on feature values.
 
-Random Forest – An ensemble learning method that builds multiple decision trees and merges their results for better accuracy.
+Random Forest – An ensemble learning method that builds multiple decision trees and merges their results for better accuracy
 
 AdaBoost – A boosting algorithm that combines weak learners to create a strong classifier by focusing on misclassified instances.
 
